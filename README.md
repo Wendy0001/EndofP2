@@ -46,6 +46,7 @@ After conducting several iterations, the final linear regression model was obtai
 I utilized histograms, qq-plots, pair plots, and scatter plots to evaluate the adequacy of my final model. These visualizations played a crucial role in assessing the goodness of fit and confirming that the model I developed follows the assumptions of linearity. The analysis of these plots provided strong evidence that my final model effectively captures the relationships between variables while maintaining adherence to the assumptions of linearity.
 # Regression Results 
 ![Screenshot 2023-07-07 000527](https://github.com/Wendy0001/EndofP2/assets/132939772/0a49ee0d-4f91-4a83-9efc-df18b7c0670e)
+
 Using the model, I discovered that the features with the most significant statistical influence on the price of a house are the grade, number of bathrooms, and number of floors. According to the developed model, a one-unit increase in the grade (reflecting the quality of materials used in construction) corresponds to a 25.79% increase in the sale price. Additionally, the inclusion of an extra bathroom results in a price increase of 9.64%, while the addition of another floor leads to an 8.34% increase in the sale price. These findings highlight the substantial impact these specific features have on determining the price of a house, as indicated by the model.
 # Conclusion 
 
