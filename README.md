@@ -49,7 +49,8 @@ I utilized histograms, qq-plots, pair plots, and scatter plots to evaluate the a
 
 Using the model, I discovered that the features with the most significant statistical influence on the price of a house are the grade, number of bathrooms, and number of floors. According to the developed model, a one-unit increase in the grade (reflecting the quality of materials used in construction) corresponds to a 25.79% increase in the sale price. Additionally, the inclusion of an extra bathroom results in a price increase of 9.64%, while the addition of another floor leads to an 8.34% increase in the sale price. These findings highlight the substantial impact these specific features have on determining the price of a house, as indicated by the model.
 # Conclusion 
-
+In my analysis, I found that the R-squared value of my model was 63.5%, suggesting that approximately 63.5% of the variation in house prices can be explained by the model. When it came to predicting the price of a house, I observed an error of $260,920. These findings indicate that while the model provides a reasonably good fit, there is still room for improvement in accurately predicting house prices.
+Based on my analysis, I identified that the build quality, number of bathrooms, and number of floors in a house are the most significant factors in terms of increasing the sale price. These variables showed strong statistical significance and had a substantial impact on determining the final sale price of a house. It is essential to consider these factors when evaluating and predicting the potential value of a property.
 
 
 
